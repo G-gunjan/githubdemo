@@ -1,2 +1,2 @@
 # githubdemo
-this is first demo
+this is first demo for softaware labgti
